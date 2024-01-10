@@ -4,7 +4,7 @@
 
 ## Assignment - 01: Exploring Programming Paradigms   ![](https://img.shields.io/badge/-Live-green) 
 
-- Date of Start: ![](https://img.shields.io/badge/-9th_Jan_10:00_AM-green)
+- Date of Start: ![](https://img.shields.io/badge/-9th_Jan_10:00_AM-green)j
 - Date of Submission: ![](https://img.shields.io/badge/-21st_Jan_6:00_PM-darkred) 
   
 ### Objective:
