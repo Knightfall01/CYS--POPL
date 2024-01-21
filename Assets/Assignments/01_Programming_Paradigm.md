@@ -20,28 +20,31 @@ The objective of this assignment is to deepen your understanding of programming 
   - Explore key language features that align with each paradigm.
 
 - **Comparative Analysis and Case Studies:**
-  - Compare how the selected paradigms are expressed in the common languages.
+  - Compare how the selected paradigms are expressed in the provided programming languages.
   - Identify and analyze real-world projects or applications that use these paradigms in the specified languages.
 
 - **Presentation Preparation:**
   - Concise presentations.
-  - Inclusion of code snippets and examples from the common languages.
+  - Inclusion of code snippets and examples from the provided programming languages.
 
 - **Presentations: (5 Marks)**
-  - 15-20 minutes per presentation.
+  - **15-20 minutes per presentation.**
   - Questions and brief discussions after each presentation.
 
 - **Reflection and Report: (5 Marks)**
-  - Submit a report summarizing their key findings (20-25 pages).
+  - **Submit a report summarizing their key findings (min. 20 - max. 25 pages).**
 
 #### Submission:
 
-- Presentations (in Latex Format) and Report should be submitted electronically via [AUMS](https://aumscb.amrita.edu/portal/site/67606/tool/5b707dc3-1d16-4617-a460-cb455024799a?null).
+- **Presentations and Report (in Latex Format)** should be submitted electronically via [AUMS](https://aumscb.amrita.edu/portal/site/67606/tool/5b707dc3-1d16-4617-a460-cb455024799a?null). [[Latex Templates](../Templates/) available here]
+- **File Naming Convention:**
+  - Assignment01-CYS210XX_Report.pdf
+  - Assignment01-CYS210XX_Presentation.pdf
 - Presentations can be conducted in-person  ![](https://img.shields.io/badge/-12th_Feb_to_17th_Feb-darkgreen)
 
 #### Grading Criteria:
 
-- Quality and depth of research into paradigms in common languages.
+- Quality and depth of research into paradigms in provided programming languages.
 - Clarity and effectiveness of the presentation.
 - Thoughtfulness in comparative analysis.
 - Relevance and insightfulness of case studies.
@@ -107,6 +110,7 @@ The objective of this assignment is to deepen your understanding of programming 
 | 55      | Scripting - **Lua**  | Object-Oriented - **Kotlin**   | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21055/Assignment01-CYS21055_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21055/Assignment01-CYS21055_Presentation.pdf) |
 | 56      | Logic - **MiniZinc**  | Concurrent - **Akka**         | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21056/Assignment01-CYS21056_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21056/Assignment01-CYS21056_Presentation.pdf) |
 | 57      | Imperative - **Objective-C**  | Event-Driven - **Node.js** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21057/Assignment01-CYS21057_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21057/Assignment01-CYS21057_Presentation.pdf) |
+| 58     | Scripting - **Bash**  | Imperative - **Rust** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21057/Assignment01-CYS21058_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21057/Assignment01-CYS21058_Presentation.pdf) |
 | 59      | Reactive - **Dart**  | Aspect-Oriented - **Django**   | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21059/Assignment01-CYS21059_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21059/Assignment01-CYS21059_Presentation.pdf) |
 | 60      | Meta-Programming - **Groovy**  | Scripting - **Shell** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21060/Assignment01-CYS21060_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21060/Assignment01-CYS21060_Presentation.pdf) |
 | 61      | Logic - **ASP.NET**  | Scripting - **PowerShell**     | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21061/Assignment01-CYS21061_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21061/Assignment01-CYS21061_Presentation.pdf) |
